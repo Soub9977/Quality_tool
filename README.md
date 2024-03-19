@@ -12,14 +12,9 @@ Clone the repository to your local machine:
 
 
 Install dependencies:
-
-
-Copy code
 npm install
 Start the development server:
 
-
-Copy code
 npm run dev
 Open your web browser and visit http://localhost:3000 to view the application.
 
